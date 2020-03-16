@@ -1,0 +1,23 @@
+{
+  "name": "note-taking-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLipsett/Note-Taking-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BLipsett/Note-Taking-App/issues"
+  },
+  "homepage": "https://github.com/BLipsett/Note-Taking-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
